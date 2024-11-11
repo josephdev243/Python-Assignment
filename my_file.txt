@@ -1,0 +1,6 @@
+Hello, World!
+This is my first line.
+Here is a number: 42
+Appending a new line.
+Adding another line with a number: 99
+Final line in the file.
